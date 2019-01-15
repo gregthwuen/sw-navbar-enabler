@@ -44,8 +44,11 @@ print_modname() {
   ui_print "    Software Navbar Enabler    "
   ui_print "       by gregthwuen           "
   ui_print "                               "
-  ui_print "    tested on OP5 LOS 16.0     "
-  ui_print "      unofficial build         "
+  ui_print "  (tested with Magisk v18.0    "
+  ui_print "       on OnePlus 5 with       "
+  ui_print "  unofficial LineageOS 16.0    "
+  ui_print "  (Android 9.0.x) pre-release  "
+  ui_print "        by codeworkx)          "
   ui_print "                               "
   ui_print "*******************************"
 }
