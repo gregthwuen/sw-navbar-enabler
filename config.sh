@@ -22,10 +22,10 @@
 
 # Set to true if you need to enable Magic Mount
 # Most mods would like it to be enabled
-AUTOMOUNT=true
+AUTOMOUNT=false
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -41,7 +41,12 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "    Software Navbar Enabler    "
+  ui_print "       by gregthwuen           "
+  ui_print "                               "
+  ui_print "    tested on OP5 LOS 16.0     "
+  ui_print "      unofficial build         "
+  ui_print "                               "
   ui_print "*******************************"
 }
 

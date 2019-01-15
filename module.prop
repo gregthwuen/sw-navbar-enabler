@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=sw-navbar-enabler
+name=Software Navbar Enabler
+version=v0.1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=gregthwuen
+description=Enables the software navbar by modifying build.prop
 minMagisk=17000
